@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,a as n}from"./app.5f4b5f7f.js";const g='{"title":"Changelog","description":"","frontmatter":{},"headers":[{"level":3,"title":"0.0.0","slug":"_0-0-0"}],"relativePath":"CHANGELOG.md","lastUpdated":1642839849355}',o={},r=n("",4),i=[r];function s(c,l,_,d,h,p){return t(),a("div",null,i)}var m=e(o,[["render",s]]);export{g as __pageData,m as default};
