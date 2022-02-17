@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "index.html (vite)",
+            "type": "pwa-msedge",
+            "request": "launch",
+            "url": "http://localhost:3000/index.html",
+            "webRoot": "${workspaceRoot}",
+            "preLaunchTask": "serve-vite",
+            "postDebugTask": "Terminate All Tasks"
+        },
+        {
+            "name": "index.md (vitepress dev)",
+            "type": "pwa-msedge",
+            "request": "launch",
+            "url": "http://localhost:3000/hpcc-js-wc/",
+            "webRoot": "${workspaceRoot}",
+            "preLaunchTask": "serve-docs",
+            "postDebugTask": "Terminate All Tasks"
+        },
+        {
+            "name": "test (vite)",
+            "type": "pwa-msedge",
+            "request": "launch",
+            "url": "http://localhost:3000/test.html",
+            "webRoot": "${workspaceRoot}",
+            "preLaunchTask": "serve-vite",
+            "postDebugTask": "Terminate All Tasks"
+        },
+        {
+            "name": "examples/iife",
+            "request": "launch",
+            "type": "pwa-msedge",
+            "url": "file://${workspaceFolder}/examples/iife/index.html",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
