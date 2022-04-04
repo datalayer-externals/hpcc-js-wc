@@ -1,3 +1,7 @@
+# Archived
+
+This repository has been relocated to:  https://github.com/hpcc-systems/Visualization/tree/trunk/components
+
 # @hpcc-js/web-components
 
 ![GitHub](https://img.shields.io/github/license/hpcc-systems/hpcc-js-wc) 
