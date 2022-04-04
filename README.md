@@ -1,6 +1,6 @@
 # Archived
 
-This repository has been relocated to:  https://github.com/hpcc-systems/Visualization/tree/trunk/components
+This repository has been relocated to:  http://hpcc-systems.github.io/Visualization/
 
 # @hpcc-js/web-components
 
